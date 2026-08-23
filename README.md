@@ -2,7 +2,8 @@
 
 Electronics and Telecommunications Engineering student focused on FPGA design, RTL verification, SoC integration, and quantized AI acceleration.
 
-[Download my FPGA Intern CV](assets/Van_Dinh_Nghia_FPGA_Intern_CV.pdf)
+[Download CV — FPGA Intern](assets/CV_FPGA_Intern_Van_Dinh_Nghia.pdf)  
+[Download Portfolio — FPGA Intern](assets/Portfolio_FPGA_Intern_Van_Dinh_Nghia.pdf)
 
 ## Featured work
 
@@ -35,4 +36,3 @@ This repository presents selected architecture decisions, verification methods, 
 
 - Email: [dinhnghia22062005@gmail.com](mailto:dinhnghia22062005@gmail.com)
 - Location: Ho Chi Minh City, Vietnam
-
